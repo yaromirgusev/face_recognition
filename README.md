@@ -5,9 +5,9 @@
 - best_model_weights.pth, load_weights.ipynb - файл с весами лучшей модели и скрипт для загрузки весов
 - fr_project.ipynb - сам файл с проектом с подробными пояснениями
 # Задачи
-1. Постройка сети для распознавания лиц
+1. Постройка сети для распознавания лиц\
 **Accuracy на тесте c Cross Entropy loss: 77.85%**
 2. Реализация TPR@FPR = 0.01
-3. Реализация TripletLoss
+3. Реализация TripletLoss\
 **Accuracy на тесте c TripletLoss: 88.8%**
 
